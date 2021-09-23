@@ -83,25 +83,14 @@
 
         <div>
             <div style="text-align: center; padding: 15px;">
-                <a href="https://github.com/chirag1234/Week3-Ques1">
+                <a href="https://github.com/ChiragSetia123/chirag--setia/edit/main/1234">
                     <button>
                         View Code
                     </button>
                 </a>
             </div>
 
-            <div style="text-align: right; padding: 15px 50px;">
-                <a href="">
-                    <button style="background-color: rgb(255,0,0);">
-                        Previous
-                    </button>
-                </a>
-                <a href="https://chirag1234.github.io/Week3-Ques2/">
-                    <button style="margin-left: 20px;">
-                        Next
-                    </button>
-                </a>
-            </div>
+         
         </div>
 
     </div>
