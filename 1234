@@ -49,8 +49,8 @@
         <h1 style="padding: 40px; text-align: center;">Question 1</h1>
 
         <p style="text-align: right; padding: 15px;">
-            Name: Anuj Rajaram Jadhav <br>
-            Roll no: 2006179 <br>
+            Name: chirag setia <br>
+            Roll no: 2006168 <br>
         </p>
 
         <hr>
@@ -90,7 +90,7 @@
 
         <div>
             <div style="text-align: center; padding: 15px;">
-                <a href="https://github.com/anujj1511/Week3-Ques1">
+                <a href="https://github.com/chirag1234/Week3-Ques1">
                     <button>
                         View Code
                     </button>
@@ -103,7 +103,7 @@
                         Previous
                     </button>
                 </a>
-                <a href="https://anujj1511.github.io/Week3-Ques2/">
+                <a href="https://chirag1234.github.io/Week3-Ques2/">
                     <button style="margin-left: 20px;">
                         Next
                     </button>
