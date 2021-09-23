@@ -99,7 +99,7 @@
 
             <div style="text-align: right; padding: 15px 50px;">
                 <a href="">
-                    <button style="background-color: rgb(122, 124, 124);">
+                    <button style="background-color: rgb(255,0,0);">
                         Previous
                     </button>
                 </a>
